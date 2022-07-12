@@ -3,32 +3,32 @@
 <plist version="1.0">
 <dict>
 	<key>clientid</key>
-	<string>{your_clientId}</string>
+	<string>ff824670-6275-4f16-a0a0-32008c34abf7</string>
 	<key>domainoauth</key>
-	<string>{your_domainoauth}</string>
+	<string>aac0846.my.idaptive.app</string>
 	<key>loginurl</key>
-	<string>{your_loginurl}</string>
+	<string>aac0846.my.idaptive.app</string>
 	<key>systemurl</key>
-	<string>{your_systemurl}</string>
+	<string>aac0846.my.idaptive.app</string>
 	<key>applicationid</key>
-	<string>{your_applicationid}</string>
+	<string>TMA_Open_ID</string>
 	<key>redirecturi</key>
-	<string>{your_redirecturi}</string>
+	<string>sma://aac0846.my.idaptive.app/android/com.mainevent.wrapsma/redirectURICallback</string>
 	<key>scope</key>
-	<string>{your_scope}</string>
+	<string>openid profile</string>
 	<key>threshold</key>
 	<integer>0</integer>
 	<key>responsetype</key>
-	<string>{your_responsetype}</string>
+	<string>code</string>
 	<key>widgetid</key>
-	<string>{your_widgetid}</string>
+	<string>e08f61fb-c555-41f4-9e08-549749a294fa</string>
 	<key>mfatenanturl</key>
-	<string>{your_mfatenanturl}</string>
+	<string>aac0846.my.idaptive.app</string>
 	<key>authwidgethosturl</key>
-	<string>{your_authwidgethosturl}</string>
+	<string>https://aac0846.my.idaptive.app/</string>
 	<key>authwidgetid</key>
-	<string>{your_authwidgetid}</string>
+	<string>e08f61fb-c555-41f4-9e08-549749a294fa</string>
 	<key>resourceurl</key>
-	<string>{your_resourceurl}</string>
+	<string>sma://aac0846.my.idaptive.app/android/com.mainevent.wrapsma/resourceURLCallback</string>
 </dict>
 </plist>
