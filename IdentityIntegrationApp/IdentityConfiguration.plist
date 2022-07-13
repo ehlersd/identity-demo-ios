@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>clientid</key>
-	<string>ff824670-6275-4f16-a0a0-32008c34abf7</string>
+	<string>7f0376f6-217f-42ad-bdd4-4bb885d47515</string>
 	<key>domainoauth</key>
-	<string>aac0846.my.idaptive.app</string>
+	<string>https://aac0846.my.idaptive.app</string>
 	<key>loginurl</key>
-	<string>aac0846.my.idaptive.app</string>
+	<string>NA</string>
 	<key>systemurl</key>
-	<string>aac0846.my.idaptive.app</string>
+	<string>https://aac0846.my.idaptive.app</string>
 	<key>applicationid</key>
-	<string>TMA_Open_ID</string>
+	<string>TMA_Open_ID_iOS</string>
 	<key>redirecturi</key>
-	<string>sma://aac0846.my.idaptive.app/android/com.mainevent.wrapsma/redirectURICallback</string>
+	<string>sma://com.mainevent.wrapsma/redirectcallback</string>
 	<key>scope</key>
 	<string>openid profile</string>
 	<key>threshold</key>
@@ -21,14 +21,14 @@
 	<key>responsetype</key>
 	<string>code</string>
 	<key>widgetid</key>
-	<string>e08f61fb-c555-41f4-9e08-549749a294fa</string>
+	<string>NA</string>
 	<key>mfatenanturl</key>
-	<string>aac0846.my.idaptive.app</string>
+	<string>NA</string>
 	<key>authwidgethosturl</key>
 	<string>https://aac0846.my.idaptive.app/</string>
 	<key>authwidgetid</key>
-	<string>e08f61fb-c555-41f4-9e08-549749a294fa</string>
+	<string>bc5e5170-469c-4bdd-b6e2-e444e07f0ac5</string>
 	<key>resourceurl</key>
-	<string>sma://aac0846.my.idaptive.app/android/com.mainevent.wrapsma/resourceURLCallback</string>
+	<string>sma://com.mainevent.wrapsma/resourcecallback</string>
 </dict>
 </plist>
